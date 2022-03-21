@@ -28,29 +28,26 @@ Catwalk is a Front End Capstone Project using NodeJS and React. This is a single
 - Users are able to add their own review by clicking "add review+" button
 
 ## Setup
-
-## Running the App
-
-## Installation
+### Installation
 Use the package manager [npm](https://www.npmjs.com/) to install dependencies.
 
 ```bash
 npm install
 ```
-## Usage
+### Usage
 Use webpack to bundle files
 ```bash
 npm run transpile
 ```
-# initializes server
+### initializes server
 ```bash
 npm run server
 ```
-# enter api key
+### enter api key
 copy config.example.js in server folder
 rename it to config.js
 uncomment code and replace 'GITHUBKEY' with your personal access token
-# open client
+### open client
 open http://localhost:3000/ in browser
 
 ## Technologies
