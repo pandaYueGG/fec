@@ -66,7 +66,7 @@ const ScrollButton = styled.a`
 
 const App = () => {
   const [theme, setTheme] = useState(() => 'dark');
-  const [productId, setProductId] = useState(() => 48432);
+  const [productId, setProductId] = useState(() => 63622);
   const [currentSelection, setCurrentSelection] = useState(() => {});
   const [currentOutfit, setCurrentOutfit] = useState(() => []);
   const [show, setShow] = useState(() => 'hide');

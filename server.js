@@ -4,6 +4,7 @@ const compression = require('compression')
 const app = express();
 const port = 3000;
 const config = require('./server/config.js');
+console.log("config: ", config)
 const axios = require('axios');
 const API_URL = 'https://app-hrsei-api.herokuapp.com/api/fec2/hr-sfo';
 
