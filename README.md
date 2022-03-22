@@ -6,6 +6,7 @@ Catwalk is a Front End Capstone Project using NodeJS and React. This is a single
 
 ## Components and Features
 ### Product Overview
+![product overall](https://user-images.githubusercontent.com/72169023/159382954-3b5de348-4ef4-4a2f-b756-7abbd59a987c.gif)
 - Display with dark theme or light theme 
 - Display an image carousel with a zoom-in and expand feature. Contains various photos of the currently selected style of a product.
 - Users are able to select a product with multiple styles, and the images in the coursel will dynamically updates.
