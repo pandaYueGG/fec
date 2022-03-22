@@ -13,17 +13,20 @@ Catwalk is a Front End Capstone Project using NodeJS and React. This is a single
 - Product detail information section emphasize a product's name, category, price and available styles. This section's information will update when choose different products.
 
 ### Related Products
+![related product](https://user-images.githubusercontent.com/72169023/159383085-2049b557-37c6-4948-b446-34ff659472aa.gif)
 - Displays other product options related to the currently selected product.
 - Provide various styles of each current seleted product without reloading page.
 - A modal comparing details of the current product and the related product will be displayed when click the start on related product
 
 ### Questions and Answers
+![Questions Answers](https://user-images.githubusercontent.com/72169023/159383114-8e46f16e-3d03-4a26-8cfe-8792ab9c4025.gif)
 - Questions and Answers section displays other users' questions and answers regaring current selected product. 
 - Users are able to target accurate questions by typing key words in search bar
 - A modal for adding quetion displays when users click "add a question+" button
 - Clicking "add anwer" button will display a modal of forms for adding new answers
 
 ### Rating and Reviews
+![rating reviews](https://user-images.githubusercontent.com/72169023/159383145-9e0affcd-f95b-4b12-ae4f-5236874c2fcc.gif)
 - Display review of current selected product, and reviews can be sorted by relevance, helpfulness, and time
 - Overall rating data is shown on the left, which consist of multiple rating aspects of current product
 - Users are able to add their own review by clicking "add review+" button
